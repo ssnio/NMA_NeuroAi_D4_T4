@@ -8,4 +8,5 @@ Workshop [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 
 ## Reference:
 Paper: [Inductive Biases and Variable Creation in Self-Attention Mechanisms](https://arxiv.org/abs/2110.10090)
+
 Transformer base-code: [Torodial](https://github.com/MathInf/toroidal/tree/main)
