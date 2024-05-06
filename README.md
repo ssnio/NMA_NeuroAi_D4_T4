@@ -6,5 +6,7 @@ Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 
 ## Reference:
 Paper 1: [Inductive Biases and Variable Creation in Self-Attention Mechanisms](https://arxiv.org/abs/2110.10090)
+
 Paper 2: [ Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 Transformer base-code: [Torodial](https://github.com/MathInf/toroidal/tree/main)
